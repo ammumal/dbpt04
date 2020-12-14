@@ -36,7 +36,7 @@
   </head>
   <body>
     <h3> 연령대별 정보 | <a href="index.html"> Home </a>
-    <h3> 검색하신 "<?=$rentplace ?>" 장소의 시간대 별 최소 이용정보입니다. </h3>
+    <h3> 검색하신 "<?=$rentplace ?>" 장소의 시간대 별 이용정보입니다. </h3>
     <table border=1>
       <tr>
           <th> 대여소명 </th>
